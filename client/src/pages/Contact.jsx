@@ -4,8 +4,8 @@ import "./Contact.css";
 function Contact() {
   return (
     <div className="contact">
-      <h1>Home Page</h1>
-      <p>Welcome to the home page</p>
+      <h1>Contact Page</h1>
+      <p>Welcome to the conact page</p>
     </div>
   );
 }
